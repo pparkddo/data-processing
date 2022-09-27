@@ -7,3 +7,4 @@ Learn how to process data
 3. [Handle huge data](https://colab.research.google.com/github/pparkddo/data-processing/blob/master/Handle%20huge%20data.ipynb)
 4. [Using various data sources](https://colab.research.google.com/github/pparkddo/data-processing/blob/master/Using%20various%20data%20sources.ipynb)
 5. [Error metric](https://colab.research.google.com/github/pparkddo/data-processing/blob/master/Error%20metric.ipynb)
+6. [Machine learning](https://colab.research.google.com/github/pparkddo/data-processing/blob/master/Machine%20learning.ipynb)
